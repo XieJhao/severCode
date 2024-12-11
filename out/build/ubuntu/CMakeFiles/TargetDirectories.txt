@@ -1,0 +1,4 @@
+/home/xjh/projects/GraduationProject/out/build/ubuntu/CMakeFiles/GraduationServer.dir
+/home/xjh/projects/GraduationProject/out/build/ubuntu/CMakeFiles/fileServer.dir
+/home/xjh/projects/GraduationProject/out/build/ubuntu/CMakeFiles/edit_cache.dir
+/home/xjh/projects/GraduationProject/out/build/ubuntu/CMakeFiles/rebuild_cache.dir
